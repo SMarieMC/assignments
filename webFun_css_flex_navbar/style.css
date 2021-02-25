@@ -1,0 +1,41 @@
+#box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 225px;
+    width: 825px;
+    background-color: rgb(15, 15, 105);
+}
+#square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    width: 85px;
+    background-color: cornsilk;
+    margin: 345px;
+}
+#banner {
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    height: 75px;
+    width: 1000px;
+    background-color: rgb(93, 169, 255);
+}
+img {
+    height: 55px;
+}
+h2{
+    color: white;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    margin-left: 1px;
+    word-spacing: 10px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
